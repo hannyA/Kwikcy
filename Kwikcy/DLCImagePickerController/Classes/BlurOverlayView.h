@@ -1,0 +1,18 @@
+//
+//  BlurOverlayView.h
+//  Backspaces
+//
+//  Created by Dmitri Cherniak on 11/18/12.
+//  Copyright (c) 2012 DLC Inc. All rights reserved.
+//
+
+
+//TODO: DELETE:
+#import <UIKit/UIKit.h>
+
+@interface BlurOverlayView : UIView
+
+@property (nonatomic, assign) CGFloat radius;
+@property (nonatomic, assign) CGPoint circleCenter;
+
+@end
