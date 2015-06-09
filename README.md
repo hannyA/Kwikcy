@@ -1,1 +1,4 @@
 # Kwikcy
+Kwikcy is a iOS app that let users share ephermal photos and videos. The app includes features that made users aware of each others morals( i.e. honesty, revenge, mercy). Users cannot be prevented from taking screenshots, but the users whos shared photos were taken a screenshot of, have the ability to take revenge on said person. The implementation is incomplete. Though the options were to either: 1)Select a random photo from the guilty party's past sent photos and share it amongst friends of both parties (a bit dangerous). 2) Allow the person to take screenshots of the guilty party at a later date without any notification. 3) Send a message to the friends of the guilty party of his betrayal.
+
+The app includes the ability to search for users by name or by people in their address book. Receive notifications of new friend requests and screentshot notificiation. 
