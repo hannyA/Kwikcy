@@ -17,5 +17,5 @@ Kwikcy was first built using iOS 5 and continued being over the years until 2014
 AWS Mobile Framework including AWS TokenVendingMachine that I altered to use DynamoDB instead of SimpleDB.
 DLCImagePicker
 GPUImage
-MBProgressHUD (How old is that?)
+MBProgressHUD
 More that I can't find because it's been so long
