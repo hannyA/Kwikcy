@@ -10,8 +10,6 @@ The function I built would capture this data and then send it to the servers whe
 
 The app includes the ability to search for users by name or by people in their address book. Receive notifications of new friend requests and screentshot notificiation. 
 
-# History
-Kwikcy was first built using iOS 5 and continued being over the years until 2014, when iOS 8 came out (I think it's time to call it quits).
 
 #Libraries/Frameworks
 AWS Mobile Framework including AWS TokenVendingMachine that I altered to use DynamoDB instead of SimpleDB.
